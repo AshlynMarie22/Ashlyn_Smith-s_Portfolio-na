@@ -16,6 +16,10 @@ a.navbar-brand:visited {
     color:white;
 
 }
+a.navbar-brand:hover {
+    color:white;
+
+}
 h1{
     border-bottom-style: solid;
     border-color: #e5e5e5;

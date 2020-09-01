@@ -101,6 +101,7 @@ h2.h2{
 
 }
 
+
 h3{
     border-bottom-style: solid;
     border-color: #e5e5e5;
@@ -124,12 +125,12 @@ h3.h3{
     border: 1px solid white;
     padding: 20px;
     margin-top: 75px;
-    margin-bottom: 75px;
+    margin-bottom: 125px;
     float: left;
     margin-left: 20px;
 }
 .row-contact{
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     padding-left: 25px;
     padding-right: 120px;
     padding-top: 20px;
@@ -138,8 +139,13 @@ h3.h3{
     display: block;
     width: 100%;
 }
-.btn.btn-primary.btn-lg{
+.btn.btn-primary.btn-lg.custom-lg{
     display: block;
     background-color: #47a39e;
+    border: solid #47a39e;
     color: white;
+    font-size: 1em;
+    height: 50px;
+    width: 125px;
+    margin-bottom: 20px;
 }

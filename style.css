@@ -8,15 +8,22 @@ a.navbar-brand {
   font-family: serif;
   font-weight: bold;
   font-family: "Homemade Apple", cursive;
+  color: #7D6D61;
 }
 a.navbar-brand:link {
-  color: white;
+  color: #7D6D61;
 }
 a.navbar-brand:visited {
-  color: white;
+  color: #7D6D61;
 }
 a.navbar-brand:hover {
-  color: white;
+  color: #7D6D61;
+}
+.nav-link{
+    color: #7D6D61;
+}
+.navbar-nav.ml-auto{
+    color: #7D6D61;
 }
 .footer {
   background-color: #5e574d;

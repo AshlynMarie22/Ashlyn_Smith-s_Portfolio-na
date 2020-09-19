@@ -13,10 +13,13 @@ a.navbar-brand {
 a.navbar-brand:link {
   color: #7D6D61;
 }
+a.navbar-brand:active {
+    color: #7D6D61;
+  }
 a.navbar-brand:visited {
   color: #7D6D61;
 }
-a.navbar-brand:hover {
+.hover {
   color: #7D6D61;
 }
 .nav-link{
@@ -73,6 +76,7 @@ h1.h1 {
   margin-top: 75px;
   float: center;
   margin-left: auto;
+  margin-bottom: 75px;
 }
 .img-aboutme {
   float: left;

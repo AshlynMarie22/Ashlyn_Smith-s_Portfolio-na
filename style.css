@@ -19,7 +19,7 @@ a.navbar-brand:active {
 a.navbar-brand:visited {
   color: #7D6D61;
 }
-.hover {
+a:hover {
   color: #7D6D61;
 }
 .nav-link{
